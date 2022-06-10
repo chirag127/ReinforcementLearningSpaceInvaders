@@ -1,7 +1,6 @@
 
 # Hello,
      My name is Chirag Singhal.  I am applying reinforcement learning to fun and practical use cases on a daily basis.  
-     Please feel free to reach out to me at chiragmirani dot gmail dot com
      if you have any questions or comments.  
      
 This folder contains a DQN agent, which uses deep learning to play Space Invaders Atari game.  I am using OpenAI gym libarary.
